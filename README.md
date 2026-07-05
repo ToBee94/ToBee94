@@ -127,21 +127,17 @@ final class Tobias
 
 <div align="center">
 
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ToBee94&query=public_repos&label=Public%20Repos&style=for-the-badge&color=26d0ce&logo=github)
+![Followers](https://img.shields.io/github/followers/ToBee94?label=Followers&style=for-the-badge&color=1a2980&logo=github)
+![Stars](https://img.shields.io/github/stars/ToBee94?label=Total%20Stars&style=for-the-badge&color=1a2980&logo=github)
+
+<br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToBee94&theme=react-dark&hide_border=true&bg_color=0d1117&color=26d0ce&line=26d0ce&point=ffffff&area=true" alt="activity graph"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=ToBee94&theme=react&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" alt="streak"/>
-
-</div>
-
-> [!NOTE]
-> The commit-stats & language cards from `github-readme-stats` are added below. If they ever show as broken, it’s a temporary rate-limit on that free service — just reload in a minute.
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ToBee94&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToBee94&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&langs_count=8" alt="top langs"/>
+<img src="https://streak-stats.demolab.com/?user=ToBee94&theme=react&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" alt="streak"/>
 
 </div>
 
