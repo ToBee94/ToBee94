@@ -3,13 +3,13 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://fuewa.systems">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Tobias%20Vorwachs&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20·%20PHP%20%26%20JavaScript%20·%20Bremen%20%F0%9F%87%A9%F0%9F%87%AA&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Tobias%20Vorwachs&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header"/>
 </a>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Building+clean+APIs+%26+SDKs+in+PHP;Multi-tenant+SSH+key+management+%40+Shellock;Symfony+%C2%B7+Docker+%C2%B7+DevOps;Open+data+for+the+grow+community+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Backend+Engineer+%C2%B7+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+clean+APIs+%26+SDKs+in+PHP;Multi-tenant+SSH+key+management+%40+Shellock;Symfony+%C2%B7+Docker+%C2%B7+DevOps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,15 +47,11 @@ final class Tobias
 }
 ```
 
-<div align="left">
-
-- 🔭 &nbsp;I’m building **[Shellock](https://github.com/ToBee94/Shellock)** — a multi-tenant SSH key management platform with role-based access on a Dockerized Symfony stack.
+- 🔭 &nbsp;I’m building **[Shellock](https://github.com/ToBee94/Shellock)** — multi-tenant SSH key management with role-based access on a Dockerized Symfony stack.
 - 🌱 &nbsp;I maintain **[growdata-hub](https://github.com/unserioes24/growdata-hub)** — open structured data for grow lights, tents, filters & ecosystems.
 - 🧩 &nbsp;I write **clean SDKs** — [ClouDNS](https://github.com/ToBee94/cloudns-api-php), [AC Infinity](https://github.com/ToBee94/ac-infinity-php) & [WordPress REST](https://github.com/Die-PARTEI-in-Europa/wordpress-api).
 - 🗳️ &nbsp;I hack on satire-tech for **Die PARTEI in Europa** (yes, [EU-meme CAPTCHAs](https://github.com/Die-PARTEI-in-Europa/EU-Politics-CAPTCHA) are real).
 - 💬 &nbsp;Ask me about **PHP, Symfony, Docker & API design**.
-
-</div>
 
 ---
 
@@ -82,23 +78,48 @@ final class Tobias
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ToBee94/Shellock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToBee94&repo=Shellock&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce" alt="Shellock"/>
-</a>
-<a href="https://github.com/unserioes24/growdata-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unserioes24&repo=growdata-hub&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce" alt="growdata-hub"/>
-</a>
-
-<a href="https://github.com/ToBee94/ac-infinity-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToBee94&repo=ac-infinity-php&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce" alt="ac-infinity-php"/>
-</a>
-<a href="https://github.com/ToBee94/cloudns-api-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToBee94&repo=cloudns-api-php&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce" alt="cloudns-api-php"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/ToBee94/Shellock">Shellock</a></h3>
+      <p>Multi-tenant SSH key management with role-based access — Dockerized Symfony stack, real-time integration.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/ToBee94/Shellock?style=flat-square&color=26d0ce" alt="lang"/>
+        <img src="https://img.shields.io/github/stars/ToBee94/Shellock?style=flat-square&color=1a2980" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/ToBee94/Shellock?style=flat-square&color=555" alt="last commit"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/unserioes24/growdata-hub">growdata-hub</a></h3>
+      <p>Open structured data for grow equipment — lights, tents, filters and compatible ecosystems.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/unserioes24/growdata-hub?style=flat-square&color=26d0ce" alt="lang"/>
+        <img src="https://img.shields.io/github/stars/unserioes24/growdata-hub?style=flat-square&color=1a2980" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/unserioes24/growdata-hub?style=flat-square&color=555" alt="last commit"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌬️ <a href="https://github.com/ToBee94/ac-infinity-php">ac-infinity-php</a></h3>
+      <p>PHP SDK for the AC Infinity API — clean, typed access to controllers and sensors.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/ToBee94/ac-infinity-php?style=flat-square&color=26d0ce" alt="lang"/>
+        <img src="https://img.shields.io/github/stars/ToBee94/ac-infinity-php?style=flat-square&color=1a2980" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/ToBee94/ac-infinity-php?style=flat-square&color=555" alt="last commit"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ <a href="https://github.com/ToBee94/cloudns-api-php">cloudns-api-php</a></h3>
+      <p>PHP SDK for the ClouDNS API — DNS zones and records made simple.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/ToBee94/cloudns-api-php?style=flat-square&color=26d0ce" alt="lang"/>
+        <img src="https://img.shields.io/github/stars/ToBee94/cloudns-api-php?style=flat-square&color=1a2980" alt="stars"/>
+        <img src="https://img.shields.io/github/last-commit/ToBee94/cloudns-api-php?style=flat-square&color=555" alt="last commit"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -106,12 +127,21 @@ final class Tobias
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToBee94&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToBee94&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&langs_count=8" alt="top langs"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToBee94&theme=react-dark&hide_border=true&bg_color=0d1117&color=26d0ce&line=26d0ce&point=ffffff&area=true" alt="activity graph"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ToBee94&theme=react&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" alt="streak"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=ToBee94&theme=react&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" alt="streak"/>
+
+</div>
+
+> [!NOTE]
+> The commit-stats & language cards from `github-readme-stats` are added below. If they ever show as broken, it’s a temporary rate-limit on that free service — just reload in a minute.
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ToBee94&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToBee94&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=26d0ce&langs_count=8" alt="top langs"/>
 
 </div>
 
@@ -121,21 +151,9 @@ final class Tobias
 
 <div align="center">
 
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-1a2980?style=flat-square)
-![Arctic Code Vault](https://img.shields.io/badge/❄️_Arctic_Code_Vault-1a2980?style=flat-square)
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-1a2980?style=flat-square)
-
-<img src="https://github-profile-trophy.vercel.app/?username=ToBee94&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToBee94&theme=react-dark&hide_border=true&bg_color=0d1117&color=26d0ce&line=26d0ce&point=ffffff&area=true" alt="activity graph"/>
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-1a2980?style=for-the-badge)
+![Arctic Code Vault](https://img.shields.io/badge/❄️_Arctic_Code_Vault-1a2980?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-1a2980?style=for-the-badge)
 
 </div>
 
