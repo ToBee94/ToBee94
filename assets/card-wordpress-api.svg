@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="212" viewBox="0 0 400 212" role="img" aria-label="Die-PARTEI-in-Europa/wordpress-api: PHP SDK for the WordPress REST API: posts, pages, menus, search and settings, with pagination and Polylang support.">
+<defs>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d5e"/><stop offset="1" stop-color="#b5121b"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4d5e" stop-opacity=".55"/><stop offset=".45" stop-color="#30363d"/><stop offset="1" stop-color="#30363d"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+<clipPath id="c"><rect width="400" height="212" rx="16"/></clipPath>
+</defs>
+<style>
+.sheen{animation:sheen 8s ease-in-out infinite;animation-delay:1.7999999999999998s}
+@keyframes sheen{0%{transform:translateX(-260px) skewX(-20deg)}35%,100%{transform:translateX(560px) skewX(-20deg)}}
+.glow{animation:glow 6s ease-in-out infinite alternate}
+@keyframes glow{from{opacity:.22}to{opacity:.45}}
+</style>
+<g clip-path="url(#c)">
+<rect width="400" height="212" fill="#0d1117"/>
+<circle class="glow" cx="370" cy="10" r="90" fill="#ff4d5e" filter="url(#blur)"/>
+<rect width="400" height="3" fill="url(#bar)"/>
+<rect class="sheen" x="0" y="0" width="140" height="212" fill="url(#sheen)"/>
+<text x="26" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#7d8590">Die-PARTEI-in-Europa /</text>
+<text x="25" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#ffffff">wordpress-api</text>
+<rect x="331" y="26" width="47" height="22" rx="11" fill="#ff4d5e" fill-opacity=".14" stroke="#ff4d5e" stroke-opacity=".5"/>
+<text x="355" y="41" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#ff4d5e">SDK</text>
+<text x="26" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">PHP SDK for the WordPress REST API: posts, pages,</text><text x="26" y="129" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">menus, search and settings, with pagination and</text><text x="26" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">Polylang support.</text>
+<circle cx="32" cy="183" r="6" fill="#4F5D95"/><text x="45" y="188" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#c9d1d9">PHP</text><text x="89" y="188" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#7d8590">MIT</text>
+</g>
+<rect x=".5" y=".5" width="399" height="211" rx="16" fill="none" stroke="url(#edge)"/>
+</svg>
